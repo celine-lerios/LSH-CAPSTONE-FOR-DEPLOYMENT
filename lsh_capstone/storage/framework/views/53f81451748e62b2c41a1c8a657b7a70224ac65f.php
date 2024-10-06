@@ -1,0 +1,1 @@
+<script src="<?php echo e(asset('dist-front/js/custom.js')); ?>"></script> <?php /**PATH C:\Users\ASUS\OneDrive\Documents\GitHub\LSH-CAPSTONE-FOR-DEPLOYMENT\lsh_capstone\resources\views/front/layout/scripts_footer.blade.php ENDPATH**/ ?>
