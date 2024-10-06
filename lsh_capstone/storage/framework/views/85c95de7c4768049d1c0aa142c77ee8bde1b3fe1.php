@@ -1,0 +1,2 @@
+<script src="<?php echo e(asset('dist-customer/js/scripts.js')); ?>"></script>
+<script src="<?php echo e(asset('dist-customer/js/custom.js')); ?>"></script><?php /**PATH C:\xampp\htdocs\LSH_Version_2-main\lsh_capstone\resources\views/customer/layout/scripts_footer.blade.php ENDPATH**/ ?>
